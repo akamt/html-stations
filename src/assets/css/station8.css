@@ -1,0 +1,31 @@
+body {
+  background-color: #c4c4c4;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: #fff;
+  padding: 8px;
+  display: flex;
+}
+
+.card__img-top {
+  width: 288px;
+  height: 182px;
+  margin-bottom: 16px;
+}
+
+.card__title {
+  color: #282828;
+  font-size: 14px;
+}
+
+.card__description {
+  color: #f5f5f5;
+  font-size: 12px;
+}
